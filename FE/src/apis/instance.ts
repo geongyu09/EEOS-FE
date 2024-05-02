@@ -80,7 +80,7 @@ https.interceptors.response.use(
         window.location.href = "/login";
       }, 3000);
     }
-    error.message = errorMessage;
+    // error.message = errorMessage;
     return Promise.reject(error);
   },
 );

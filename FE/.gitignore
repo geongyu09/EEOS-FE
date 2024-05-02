@@ -86,4 +86,7 @@ psd
 thumb
 sketch
 
+public/sw.js.map
+src/apis/instance.ts
+
 # End of https://www.toptal.com/developers/gitignore/api/nextjs,react,macos
